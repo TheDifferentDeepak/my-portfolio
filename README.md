@@ -1,16 +1,40 @@
-# React + Vite
+# My Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ye ek personal portfolio website hai jo maine MERN stack (MongoDB, Express, React, Node.js) use karke banaya hai.
 
-Currently, two official plugins are available:
+## Live Demo
+🔗 [Visit Portfolio](https://my-portfolio-ecru-ten-46.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
+- Responsive design (mobile, tablet, desktop)
+- Dark mode support
+- Background image slider on hero section
+- Projects showcase
+- Functional contact form (connected to MongoDB backend)
 
-## React Compiler
+## Tech Stack
+- **Frontend:** React, Vite, Tailwind CSS
+- **Backend:** Node.js, Express
+- **Database:** MongoDB Atlas
+- **Deployment:** Vercel (frontend), Render (backend)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## How to Run Locally
 
-## Expanding the ESLint configuration
+1. Clone the repository
+```bash
+git clone https://github.com/tumhara-username/my-portfolio.git
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+2. Install dependencies
+```bash
+cd my-portfolio
+npm install
+```
+
+3. Start development server
+```bash
+npm run dev
+```
+
+## Author
+**Deepak** – [GitHub Profile](https://github.com/TheDifferentDeepak)
