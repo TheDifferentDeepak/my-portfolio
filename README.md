@@ -22,7 +22,7 @@ Ye ek personal portfolio website hai jo maine MERN stack (MongoDB, Express, Reac
 
 1. Clone the repository
 ```bash
-git clone https://github.com/tumhara-username/my-portfolio.git
+git clone https://github.com/TheDifferentDeepak/my-portfolio.git
 ```
 
 2. Install dependencies
